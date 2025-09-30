@@ -6,13 +6,8 @@
     <!-- 生产力指标 -->
     <div class="flex items-center space-x-8 mt-6">
       <div class="flex items-center space-x-2">
-        <span class="text-2xl font-bold text-gray-900">2,543</span>
+        <span class="text-2xl font-bold text-gray-900">2,543</span>//等待接口 随便填了个数据
         <span class="text-gray-600">已完成任务</span>
-        <TrendingUp class="w-4 h-4 text-green-500" />
-      </div>
-      <div class="flex items-center space-x-2">
-        <span class="text-2xl font-bold text-gray-900">82%</span>
-        <span class="text-gray-600">节省时间</span>
         <TrendingUp class="w-4 h-4 text-green-500" />
       </div>
     </div>

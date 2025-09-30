@@ -279,7 +279,7 @@ const mockSchedules = [
   {
     id: 1,
     title: '项目需求分析与设计',
-    description: '完成新产品的需求分析，包括用户调研、功能规划、技术架构设计等',
+    description: '别完成了 完蛋了',//完成新产品的需求分析，包括用户调研、功能规划、技术架构设计等
     priority: 'Vital',
     status: '进行中',
     progress: 60,

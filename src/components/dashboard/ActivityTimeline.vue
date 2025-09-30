@@ -1,9 +1,11 @@
+//未完成 只是大致做了个样式
+
 <template>
   <Card class="h-96">
     <CardHeader class="flex flex-row items-center justify-between">
       <div>
-        <h3 class="text-lg font-semibold text-gray-900">我的活动</h3>
-        <p class="text-sm text-gray-600">今天有什么在等待你</p>
+        <h3 class="text-lg font-semibold text-gray-900">我的活动//未完成 只是大致做了个样式 实现可能要引入其他组件 原生比较困难</h3>
+        <p class="text-sm text-gray-600">waitingforu</p>
       </div>
       <button class="p-2 rounded-lg hover:bg-gray-100 transition-colors">
         <Calendar class="w-4 h-4 text-gray-600" />
@@ -46,7 +48,7 @@
             </div>
             <div class="flex items-center space-x-1">
               <div class="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center">
-                <span class="text-white text-xs">+</span>
+                <span class="text-white text-xs">A</span>
               </div>
             </div>
           </div>
@@ -61,10 +63,9 @@
               <p class="text-xs text-gray-600">Figma 文件</p>
             </div>
             <div class="flex items-center space-x-1">
-              <div class="w-6 h-6 bg-purple-500 rounded-full flex items-center justify-center">
-                <span class="text-white text-xs">+</span>
+              <div class="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center">
+                <span class="text-white text-xs">A</span>
               </div>
-              <span class="text-xs text-gray-500">+5</span>
             </div>
           </div>
 
@@ -76,6 +77,11 @@
             <div class="flex-1">
               <p class="text-sm font-medium text-gray-900">咖啡休息</p>
               <p class="text-xs text-gray-600">Co&Co 咖啡厅</p>
+            </div>
+            <div class="flex items-center space-x-1">
+              <div class="w-6 h-6 bg-blue-500 rounded-full flex items-center justify-center">
+                <span class="text-white text-xs">A</span>
+              </div>
             </div>
           </div>
         </div>

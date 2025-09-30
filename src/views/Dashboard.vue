@@ -18,7 +18,7 @@
           <!-- 虚拟助手 -->
           <VirtualAssistant />
           
-          <!-- 活动时间线 -->
+          <!-- 活动时间线 -->//未完成 只是大致做了个样式
           <ActivityTimeline />
         </div>
         
